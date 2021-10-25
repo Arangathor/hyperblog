@@ -1,4 +1,4 @@
-# Hyperblog:smile: :tw-2764:
+# Hyperblog:smile: 
 Este sera el inicio de OhArangator, sera el inicio de una carrera increible en la que me convertire en un muy pero muy teso programador. 
 
-Estuve estudiando el curso de (https://platzi.com/cursos/git-github/) en el que he aprendido a utilizar los comandos, crear ramas y trabajar en cada una de ellas, utilizar github que es una gran herramienta, etc...
+Creamos en nosotros mismos, constancia y disciplina es todo lo que se necesita para llegar a la cima, esto por encima del talento.
